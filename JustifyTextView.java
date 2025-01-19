@@ -1,4 +1,4 @@
-package com.ej.rovadiahyosefcalendar.classes;
+package com.example.project;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -10,7 +10,6 @@ import androidx.annotation.Nullable;
 
 /**
  * Custom class to support Justifying Text. Created by chatGPT and a bit of tinkering.
- * The things I do for a Rabbi Fayazi (My Rosh Yeshiva) request... I'm just happy it's over...
  */
 public class JustifyTextView extends androidx.appcompat.widget.AppCompatTextView {
 
